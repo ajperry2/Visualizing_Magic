@@ -1,10 +1,5 @@
 # Visualizing Magic the Gathering
 
-## Introduction of the Data
-
-My data is a publicly available dataset given at this [link](https://mtgtop8.com/), this gives information on the top decks at a country level tournament in London. I joined this data with a larger one at this [MTGjson](https://mtgjson.com/) which gives all of the information on every card in the card game. With these two combined I was able to analyze the components of the decks at the top level of play in Magic the Gathering.
-
-The purpose of this analysis is simple. When people start playing Magic the Gathering, if they are playing this format of play, they are told very simple rules they should follow when constructing a deck. I am investigating whether these best practices in deck building are best even at the top level of play. These rules include choose cards which are low cost (require a low amount of mana to summon), stick to a small number of colors in your deck, and buy cards which are cheap but also good.
 
 ## Question
 

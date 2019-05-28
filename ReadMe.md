@@ -24,7 +24,7 @@ Again, it seems that the competitors generally listen to the rule with some exce
 ### Don’t Buy Expensive Cards
 ![Cost of Cards against Position](cost.png)
 
-It would seem that these competitive players to not listen to this advice at all! The cards in their decks are very expensive with the most expensive card costing 150 dollars! 
+It would seem that these competitive players to not listen to this advice at all! The cards in their decks are very expensive with the most expensive card costing 150 dollars! I talked to some domain experts about this, they made a good point that the reason some of these cards are expensive is they are used in competitive play, so don't let the prices here deter you. This may be an area for more analysis, but it would require a data source on lower levels of play and I have not seen one. If someone has seen this kind of data please send me a message with a link!
 
 # Application
 These patterns can help someone that is becoming intermediate by explaining how to deviate from the advice they have been living by so far. If you are becoming intermediate, you may want to spend a little money on your deck but also don’t hesitate to throw a couple blue cards in to make your deck more reactive. Finally, if there is a card that is three or four mana that will really help your deck, throw it in. But only have one or two ‘big cards’ which cost more than five mana.

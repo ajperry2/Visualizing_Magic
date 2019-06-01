@@ -3,7 +3,7 @@
 
 ## Question
 
-When someone first starts playing the modern format of Magic the Gathering, of the question of how to choose cards for a deck comes up. Often the advice is having a lot of low mana creatures, stick to one or two colors and if you buy a card, there are cheap good ones that will help you more. All of this advice is good as it counters natural impulses in a new player that hurt them badly at first.
+When someone first starts playing the modern format of Magic the Gathering, often the question of how to choose cards for a deck comes up. Often the advice is having a lot of low mana creatures, stick to one or two colors and if you buy a card, there are cheap good ones that will help you more. All of this advice is good as it counters natural impulses in a new player that hurt them badly at first.
 
 I am investigating whether this is something that works well for beginners but should be abandoned once you know more about the game or if it is solid advice at all levels of play. I gathered data on the cards used in a modern tournament, looked at the patterns in their cards that relate to these tips, and this is what I found.
 ## Analysis
